@@ -1,6 +1,6 @@
 # Hi!  👋
 
-My name is __Nicolas Moutschen__. I'm an engineer working at Apollo GraphQL. You can find more about me [on my personal website](https://n14n.dev/).
+My name is __Nicolas Moutschen__. I'm an engineer building things in Rust at Apollo GraphQL. You can find more about me [on my personal website](https://n14n.dev/).
 
 Here are some of the things I do (or contribute to):
 
